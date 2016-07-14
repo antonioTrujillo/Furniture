@@ -1,0 +1,25 @@
+
+Ureña Mobiliario
+
+- 2 paginas 
+	1: 
+	Home con slide que tenga 3 o 4.Ultimas noticias/Novedades/Apertura nueva tienda/...
+	Sección con categorias (iconitosde imagen... sillas, mesas, soportes, etc
+	Partners: logos con las empresas que colaboramos o trabajamos. trabajamos para...
+	Footer: copyrigth con enlace a formulario a mail( con tu mensaje se ha enviado y el formulario desaparece)
+
+	2:
+	Pagina que va a mostrar las fotos del mobiliario. galeria/slide... como queramos.
+	Cada categoria de productos que muestre 10 fotos
+
+	3:
+	Formulario de Contacto
+
+
+Colores corporativos:
+
+	#FFF
+	#263465 
+	
+
+

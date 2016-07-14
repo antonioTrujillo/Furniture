@@ -1,0 +1,46 @@
+<div class="page_container">
+    <div class="breadcrumb">
+        <div class="wrap">
+            <div class="container">
+                <div class="span6">
+                    <span>Galería de productos
+                    </span>
+                </div>
+                <div class="span5">
+                    <span class="span5" style="text-align:right;" id="widget-social">
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="wrap " style="padding-top: 10px;padding-bottom: 10px;">
+        <div class="container welcome_block" style="padding: 0px;">
+            <div class="welcome_line welcome_b">
+            </div>
+            <br>
+            <div class="row">
+                <div class="span12">
+                    <h1>{{categorie.name}}</h1> 
+                </div>
+            </div>
+            <br>
+            <div class="welcome_line welcome_t">
+            </div>
+        </div>
+    </div>
+    <div class="wrap">
+        <div class="container">
+            <div class="row">
+                <div class="span12">
+                    <p class="description">
+                        {{categorie.description}}
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row welcome_block">
+        <ng-photos ng-repeat="photo in categorie.photos"> 
+        </ng-photos>
+    </div>
+</div>

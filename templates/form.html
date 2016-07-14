@@ -1,0 +1,20 @@
+<form name="form">
+<div class='cont'>
+  <header id="hdr">
+    <h1 class="title">COMÉNTANOS TU CONSULTA!</h1>
+  </header>
+  <div class='name'>
+    <input class='first' placeholder="Nombre" type='text'name="name" ng-model="formData.name" required data-ng-class="{ error: form.name.$invalid && !form.$pristine }">
+    <input class='last' placeholder="Apellido" type='text' name="lastName" ng-model="formData.lastName" required data-ng-class="{ error: form.lastName.$invalid && !form.$pristine }" >
+  </div>
+  <div class='contact'>
+    <input class='email' placeholder="E-mail" type='text' name="email" ng-model="formData.email" required data-ng-class="{ error: form.email.$invalid && !form.$pristine, warning: form.email.$error.email }">
+  </div>
+  <div class='message'>
+    <textarea placeholder="Escribe tu mensaje aquí"></textarea>
+  </div>
+  <footer class="foot">
+    <input type="submit"id="button"ng-click="submitForm(formData)" value="Enviar">
+  </footer>
+</div>
+</form>

@@ -1,0 +1,131 @@
+.logo {
+  max-width: 29%;
+  height: auto;
+  margin-left: 128px; }
+
+#navegador li a {
+  color: #777 !important;
+  text-decoration: none !important; }
+
+#navegador li a:hover {
+  color: #253465 !important;
+  background-color: #FFFFFF; }
+
+.nav {
+  padding-left: 353px !important;
+  margin-bottom: 0;
+  list-style: none; }
+
+.container {
+  width: 100% !important; }
+
+.container h2 {
+  text-align: center !important;
+  font-family: Museo !important;
+  font-size: 24px !important; }
+
+.image {
+  width: 100%;
+  margin: 0 0; }
+
+.carousel-image {
+  max-width: 100% !important;
+  height: 234px;
+  margin: 0 auto !important; }
+
+header {
+  display: block !important; }
+
+.carousel .slide {
+  display: inline-block;
+  position: relative; }
+
+.carousel {
+  background: #253465;
+  margin-top: 20px; }
+
+.carousel .item img {
+  margin: 0 auto;
+  /* Align slide image horizontally center */ }
+
+.bs-example {
+  margin: 20px !important; }
+
+.categories {
+  background-color: #253465;
+  margin: 0 auto;
+  text-align: center;
+  width: 300px; }
+
+.widgets {
+  padding: 40px 0px;
+  margin: 1.4%; }
+
+.imgCenter {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 20px; }
+
+.color-link:hover {
+  text-decoration: none !important; }
+
+.col-md-3 {
+  text-align: center !important; }
+
+.col-md-4 {
+  margin: 12px 0px !important; }
+
+.container .partners {
+  border-color: #253465;
+  border: 1px; }
+
+.footer {
+  border-top: 1px solid #eee;
+  margin: 42px 0px;
+  text-align: right; }
+
+.copyright {
+  margin: 41px 60px 10px; }
+
+.error {
+  border-color: red; }
+
+.warning {
+  border-color: yellow; }
+
+.breadcrumb {
+  padding: 10px 0;
+  margin: 0 140px 0px;
+  list-style: none;
+  background: #253465;
+  color: #fff;
+  font-family: Comfortaa, sans-serif;
+  font-weight: 400;
+  font-size: 14px; }
+
+.welcome_block {
+  text-align: center;
+  line-height: 20px;
+  font-size: 18px;
+  color: #3b3b3b;
+  font-family: 'Comfortaa',sans-serif;
+  font-weight: 400;
+  position: relative;
+  text-transform: uppercase;
+  border-top: 1px;
+  border-botton: 1px; }
+
+.container {
+  margin-right: auto;
+  margin-left: auto; }
+
+.description {
+  margin: 0px 170px 67px;
+  text-align: center;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 42px;
+  border-top: 1px solid #eee;
+  padding-top: 42px; }
+
+/*# sourceMappingURL=officium.css.map */

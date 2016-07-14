@@ -1,0 +1,62 @@
+[
+        {
+        "id": 1,
+        "name": "Vintage Line",
+        "image": "img/chair.png",
+        "description": "Lo vintage está de moda y ahora puedes ir un poco más allá en la decoración de tu oficina consiguiendo muebles industriales vintage. Este nuevo estilo de decoración está inspirado en los lofts de Nueva York y toma como referente las fábricas antiguas, por lo que la materia prima de estos; muebles industriales vintage; es la madera, el metal y el aluminio. Entre los muebles industriales vintage encuentras vitrinas, aparadores, chifonieres, baúles, muebles auxiliares y de TV, taburetes, librerías, y todo tipo de muebles que le pueden dar a la oficina un toque vintage muy especial.",
+        "photos": [
+            "img/VintageLine/img1.jpg",
+            "img/VintageLine/img2.jpg",
+            "img/VintageLine/img3.jpg",
+            "img/VintageLine/img4.jpg",
+            "img/VintageLine/img5.jpg",
+            "img/VintageLine/img6.jpg",
+            "img/VintageLine/img7.jpg",
+            "img/VintageLine/img8.jpg",
+            "img/VintageLine/img9.jpg",
+            "img/VintageLine/img10.jpg",
+            "img/VintageLine/img11.jpg",
+            "img/VintageLine/img15.jpg"
+        ]
+        }, 
+        {
+        "id": 2,
+        "name": "Desk Line",
+        "image": "img/desk.png",
+        "description":" Por descontado, las mesas de despacho cumplen un función imprescindible para la actividad profesional, lo mismo que los escritorios. Y, no sólo esto, son percibidos por los trabajadores y visitantes como componentes de la imagen de la empresa. La marca lo es todo, también el escenario donde se realiza el trabajo. En las mesas de despacho tienen lugar importantes reuniones en las que la comodidad de los asistentes es fundamental para alcanzar los mejores acuerdos. De igual forma, los escritorios acogen ordenadores y útiles de escritura con los que se redactan valiosos documentos. Cuidar la estética y la calidad de estos muebles es importante para facilitar el trabajo y para proyectar una imagen corporativa más atractiva e influyente.",
+        "photos":[ 
+            "img/DeskLine/img1.jpg",
+            "img/DeskLine/img2.jpg",
+            "img/DeskLine/img3.jpg",
+            "img/DeskLine/img5.jpg",
+            "img/DeskLine/img6.jpg",
+            "img/DeskLine/img7.jpg",
+            "img/DeskLine/img8.jpg",
+            "img/DeskLine/img9.jpg",
+            "img/DeskLine/img10.jpg",
+            "img/DeskLine/img11.jpg",
+            "img/DeskLine/img12.jpg",
+            "img/DeskLine/img4.jpg"
+        ]
+        }, 
+        {
+        "id": 3,
+        "name": "Bookshelf Line",
+        "image": "img/bookshelf.png",
+        "description":"Las librerías son muebles que permiten guardar nuestros libros y objetos personales con criterios estéticos. Las librerías de despacho son imprescindibles para almacenar papeles, documentos, archivadores y volúmenes escritos de manera organizada, ergonómica y decorativa. El desorden afea los espacios. Y los empequeñece. Las librerías hacen posible, precisamente, superar el caos y conseguir una mayor armonía en cualquier estancia. Las librerías para el despacho más impactantes están fabricadas en madera, y suelen disponer de superficies en laca coloreada (puertas, baldas, cajones...) que combinan a la perfección con el resto del mobiliario y los textiles de la estancia. Las librerías aportan, en consecuencia, orden, equilibro y armonía. Conviene apostar en ellas por los tonos neutros, ya que los lomos de los libros y los objetos decorativos aportan el colorido y la intensidad visual al conjunto.",
+        "photos":[ 
+            "img/Bookshelf/img1.jpg",
+            "img/Bookshelf/img2.jpg",
+            "img/Bookshelf/img3.jpg",
+            "img/Bookshelf/img5.jpg",
+            "img/Bookshelf/img6.jpg",
+            "img/Bookshelf/img7.jpg",
+            "img/Bookshelf/img8.jpg",
+            "img/Bookshelf/img9.jpg",
+            "img/Bookshelf/img10.jpg",
+            "img/Bookshelf/img11.jpg",
+            "img/Bookshelf/img12.jpg",
+            "img/Bookshelf/img4.jpg"
+        ]
+        }
+]

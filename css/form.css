@@ -1,0 +1,78 @@
+.cont {
+  width: 600px;
+  margin: 2em auto;
+  overflow: hidden;
+  background: white;
+  border-radius: 5px; }
+
+.message, .contact, .name, .foot, #hdr, .foot, textarea {
+  display: block;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  clear: both;
+  overflow: hidden; }
+
+#hdr, .foot {
+  height: 52px;
+  background: rgba(0, 0, 0, 0.05);
+  padding-left: 20px;
+  border-radius: 5px 5px 0 0; }
+  #hdr .title, .foot .title {
+    font-size: 1.2em;
+    text-transform: uppercase;
+    color: rgba(51, 51, 51, 0.4); }
+
+.first, .last {
+  float: left;
+  width: 278px;
+  margin: 0;
+  padding: 0 0 0 20px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  height: 50px; }
+
+.last {
+  width: 322px;
+  border-left: 0; }
+
+.email, textarea {
+  height: 50px;
+  width: 600px;
+  line-height: 50px;
+  padding: 0 0 0 20px;
+  border-top: 0;
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
+
+textarea {
+  height: 200px; }
+
+.foot {
+  height: 49px;
+  border-top: 1px dashed rgba(0, 0, 0, 0.3);
+  border-radius: 0 0 5px 5px;
+  padding-left: 0;
+  padding-right: 20px; }
+  .foot #button {
+    height: 32px;
+    background: #4E5C8B;
+    border-radius: 5px;
+    border: 0;
+    margin: 7px 13px;
+    color: #fff;
+    float: right;
+    padding: 0 40px 0 40px;
+    border-bottom: 3px solid #253465;
+    transition: all linear .2s; }
+    .foot #button:hover {
+      background: #62709C; }
+    .foot #button:focus {
+      outline: none; }
+
+.first:focus, .last:focus, .email:focus, textarea:focus, textarea:focus {
+  outline: none;
+  background: rgba(52, 152, 219, 0.1);
+  color: rgba(51, 51, 51, 0.7); }
+
+/*# sourceMappingURL=form.css.map */
